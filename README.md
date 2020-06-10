@@ -1,0 +1,2 @@
+# FirstExcepHandlng
+Exception handling program
